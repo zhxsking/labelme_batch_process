@@ -27,6 +27,7 @@ from labelme.utils.draw import label_colormap
 import PIL.Image
 from tqdm import tqdm
 
+
 MODE = 'BW' # 保存的mask图片类型，二值图为BW，彩图为RGB
 
 if __name__ == '__main__':
